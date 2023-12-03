@@ -1,4 +1,4 @@
-host-keyword, openai,ChatGPT
+host-keyword,openai,ChatGPT
 host-suffix,auth0.com,ChatGPT
 host-suffix,challenges.cloudflare.com,ChatGPT
 host-suffix,client-api.arkoselabs.com,ChatGPT
